@@ -26,7 +26,9 @@ https://www.google.com/intl/de/drive/
 ## How to run the code
 
 the code is split into 5 differnt files.
-The first 3 correspond to the different Experiments. The other 2 are for analysing and visualizing the results
+
+The first 3 correspond to the different Experiments. The other 2 are for analysing and visualizing the results.
 
 INSERT  YOUR OWN FILSEPATHS
+
 INSERT HUC of CHOICE
