@@ -25,9 +25,7 @@ https://www.google.com/intl/de/drive/
 
 ## How to run the code
 
-the code is split into 5 differnt files.
-
-The first 3 correspond to the different Experiments. The other 2 are for analysing and visualizing the results.
+the code is split into 3 differnt files which correspond to the different Experiments. Experiment 3 needs the pretrained models from Experiment 2 to work
 
 INSERT  YOUR OWN FILSEPATHS
 
