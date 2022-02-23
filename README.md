@@ -1,5 +1,7 @@
 # LSTM-Streamflowprediction-with-Keras
 
+Related report is available as pdf document.
+
 ## This code was created to reproduce the results published in this paper:
 
 https://hess.copernicus.org/articles/22/6005/2018/
